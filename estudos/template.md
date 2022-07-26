@@ -1,3 +1,6 @@
+# ThreeJS - Template
+
+~~~html
 <!DOCTYPE html>
 <html>
 
@@ -19,3 +22,4 @@
 </body>
 
 </html>
+~~~

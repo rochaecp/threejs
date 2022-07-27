@@ -10,6 +10,8 @@
     <style>
         body {
             margin: 0;
+            background-color: #282525;
+            color: white;
         }
         canvas {
             width: 100%;

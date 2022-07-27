@@ -6,16 +6,21 @@
 
 <head>
     <meta charset="utf-8">
-    <title>My first three.js app</title>
+    <title>ThreeJS</title>
     <style>
         body {
             margin: 0;
+        }
+        canvas {
+            width: 100%;
+            height: 100%;
         }
     </style>
 </head>
 
 <body>
     <script src="https://ajax.googleapis.com/ajax/libs/threejs/r84/three.min.js"></script>
+    
     <script>
 
     </script>
